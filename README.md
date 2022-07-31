@@ -12,4 +12,6 @@ Pewlet Hackard is a very large company that has been around for many years.  Man
 ![count by title picture](https://github.com/JulieHock/Pewlett-Hackard-Analysis/blob/main/Analysis_Project_Folder/Pewlet-Hackard-Analysis_Folder/retiring_by_title.png)
 
 3. There are a total of 1,549 employees who were born in 1965 and still work for the company that could be used in the mentorship program to help train new employees who employees who are promoted to new titles. 
-!(count by title for mentorship)[
+!(count by title for mentorship)[https://github.com/JulieHock/Pewlett-Hackard-Analysis/blob/main/Analysis_Project_Folder/Pewlet-Hackard-Analysis_Folder/count_of_mentorship_eligibility_by_title.png]
+
+4. 
